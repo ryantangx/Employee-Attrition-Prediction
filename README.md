@@ -80,15 +80,24 @@ The confusion matrix confirms that the model produced only **4 false positives**
 
 ---
 
-## 🔍 Key Insights & Discussion
-1. **Burnout is the Core Driver**: Turnover is heavily concentrated among top performers experiencing extreme workloads and those crossing the 3–5 year tenure threshold.
-2. **Precision in Action**: The 99% precision rate means HR can confidently prioritize outreach to flagged individuals without wasting resources on employees likely to stay.
-3. **Sentiment > Salary**: Compensation and department hold virtually zero predictive weight compared to how employees feel about their daily project load and satisfaction levels.
+## 🎯 Strategic Business Roadmap & Implementation
+To solve the turnover crisis, Salifort Motors must move beyond reactive hiring and implement the following data-driven interventions:
 
-## 🚀 Future Improvements
-* **Automated Pipeline**: Package the model to run monthly against current employee records for a live HR dashboard.
-* **Financial ROI Analysis**: Quantify savings by multiplying true positive predictions by the average cost of employee replacement.
-* **Review Cycle Overhaul**: Transition from annual reviews to quarterly "pulse checks" to catch dipping satisfaction levels early, particularly for high-value talent.
+### 1. High-Precision Retention Outreach
+* **Model Deployment**: Implement the Random Forest model as a monthly automated pipeline.
+* **Prioritize High-Risk Flags**: Because the model has a **99% precision rate**, HR should immediately prioritize outreach to flagged individuals, as they are almost certain to leave without intervention.
+
+### 2. Workload & Operational Boundaries
+* **Cap Active Projects**: Managers should enforce a limit of 5 projects per employee to prevent burnout.
+* **Automated Alerts**: Establish a system that alerts HR when an employee's monthly hours breach the 250-hour mark or project counts fall below 3, indicating underutilization.
+
+### 3. Structural Engagement Overhaul
+* **Quarterly "Pulse Checks"**: Transition from annual reviews to quarterly satisfaction checks to catch dipping sentiment early, particularly for top-tier "Ambitious" and "Burned Out" clusters.
+* **Mid-Level Tenure Pathways**: Design specific retention tracks (leadership training, sabbaticals, or title promotions) specifically for employees entering their **third year of service**.
+
+### 4. Quantifying Business Impact (Next Steps)
+* **ROI Calculation**: Conduct a financial analysis by multiplying the 460 successfully identified flight risks by the average cost of replacement (recruitment + onboarding).
+* **Qualitative Deep-Dive**: Use the model's findings to lead targeted focus groups to understand the specific qualitative reasons why top-performing employees feel their satisfaction is dropping.
 
 ---
 *© 2026 Ryan Tang.*
