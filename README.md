@@ -13,7 +13,7 @@ By developing a **Random Forest Classifier**, this analysis identifies employees
 ---
 
 ## 📂 Data & Preprocessing
-The dataset consists of 14,999 employee records with 10 variables, including satisfaction levels, performance evaluations, and workload metrics.
+The [dataset](hr_dataset.csv) consists of 14,999 employee records with 10 variables, including satisfaction levels, performance evaluations, and workload metrics.
 
 ### Preprocessing Pipeline
 * **Data Cleaning**: Identified and removed **3,008 duplicated rows** to prevent biased predictions and overweighting specific profiles.
