@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9-3776AB?logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-[![View Notebook](https://img.shields.io/badge/Jupyter-View_Notebook-F37626?logo=jupyter&style=flat)](salifort_motors_capstone.ipynb)
+[![View Notebook](https://img.shields.io/badge/Jupyter-View_Notebook-F37626?logo=jupyter&style=flat)](employee_attrition_random_forest.ipynb)
 
 ## 📌 Abstract
 Salifort Motors, a global consulting firm, is currently experiencing an unusually high rate of employee turnover. This attrition significantly impacts the company's bottom line through increased recruitment costs, lost productivity, and diminished team morale. This project utilizes the **PACE (Plan, Analyze, Construct, Execute) framework** to transition HR from a reactive replacement approach to a proactive retention strategy.
